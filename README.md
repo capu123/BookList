@@ -8,4 +8,6 @@
 
 > npm install firebase angularfire2 –save 
 
+## Screenshot:
+
 ![alt tag](http://saideep-chhetri.co.uk/Extra%20Images/ionicfirebasebooks.png)
